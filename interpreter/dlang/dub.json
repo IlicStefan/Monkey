@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Stefan Ilic"
+	],
+	"copyright": "Copyright © 2022, Stefan Ilic",
+	"description": "Monkey interpreter",
+	"license": "proprietary",
+	"name": "dlang"
+}
